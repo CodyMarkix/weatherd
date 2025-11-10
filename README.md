@@ -46,7 +46,7 @@ A copy of the default config file is also available below:
 	"timezone": "Europe/Prague",
 	"temperature_unit": "celsius",
 	"frequency": 300,
-	"prettify_output": False
+	"prettify_output": false
 }
 ```
 
