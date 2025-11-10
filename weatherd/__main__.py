@@ -23,7 +23,7 @@ default_config = {
 
 
 parser = argparse.ArgumentParser(description='Weather daemon for fetching data from Open-Meteo')
-parser.add_argument('-S', '--systemd', action="store_true")
+parser.add_argument('-S', '--systemd', action="store_true", help="Generate systemd user unit")
 args = parser.parse_args()
 
 def checkConfigPath() -> str:
