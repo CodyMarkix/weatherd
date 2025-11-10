@@ -1,2 +1,4 @@
 # Python stuff
 .venv
+dist
+weatherd.egg-info
