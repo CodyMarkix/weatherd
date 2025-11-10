@@ -91,9 +91,8 @@ def main():
 		except KeyboardInterrupt:
 			running = 0
 
-if __name__ == "__main__":
+def run():
 	if args.systemd:
 		generateSystemdUnit()
-		sys.exit()
-		
-	main()
+	else:
+		main()
