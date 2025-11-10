@@ -5,7 +5,7 @@ import requests
 import time
 import argparse
 
-__version__ = "0.3"
+__version__ = "0.3.2"
 
 config_paths = [
 	f"{os.environ['HOME']}/.config/weatherd/config.json",
