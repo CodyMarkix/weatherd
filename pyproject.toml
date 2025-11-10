@@ -6,4 +6,4 @@ dependencies = [
 ]
 
 [project.scripts]
-cli-name = "weatherd.__main__:run"
+weatherd = "weatherd.__main__:run"
