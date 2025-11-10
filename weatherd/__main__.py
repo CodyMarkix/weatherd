@@ -18,7 +18,7 @@ default_config = {
 	"timezone": "Europe/Prague",
 	"temperature_unit": "celsius",
 	"frequency": 300,
-	"prettify_output": True
+	"prettify_output": False
 }
 
 
