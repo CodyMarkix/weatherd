@@ -1,11 +1,11 @@
 <p align="center">
-	<object data=".github/readme-assets/logo.svg" type="image/svg+xml"></object>
+	<img src=".github/readme-assets/logo.svg">
 </p>
 
 <p align="center">
-	![GitHub last commit](https://img.shields.io/github/last-commit/CodyMarkix/weatherd)
-	![AUR Last Modified](https://img.shields.io/aur/last-modified/weatherd)
-	![	
+	<img alt="Github last commit" src="https://img.shields.io/github/last-commit/CodyMarkix/weatherd">
+	<img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/weatherd">
+	<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/weatherd">
 </p>
 
 `weatherd` is a simple daemon for periodic fetching of weather data from Open-Meteo. I needed to write this for some of my [eww](https://github.com/elkowar/eww) widgets, but I also thought it could be a useful tool to publish. ᕕ( ᐛ )ᕗ 
